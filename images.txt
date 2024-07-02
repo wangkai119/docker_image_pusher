@@ -1,17 +1,5 @@
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
-nyanmisaka/jellyfin
-fanningert/aria2-with-webui
-olprog/unraid-docker-webui
-lscr.io/linuxserver/jackett:latest
-gotson/komga
-linuxserver/mariadb
-photoprism/photoprism
-lscr.io/linuxserver/qbittorrent:latest
-whyour/qinglong
-linuxserver/syncthing
-spikhalskiy/zerotier
-
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
