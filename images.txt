@@ -13,6 +13,6 @@ whyour/qinglong
 linuxserver/syncthing
 spikhalskiy/zerotier
 portainer/portainer-ce
-fjlzwl/nastool
+saysaucee/nastools:3.23
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
